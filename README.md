@@ -1,6 +1,6 @@
 # Titanic Survival Predictor
 
-![EDA Visualization](output/figures/missing_values.png)
+![EDA Visualization](output/missing_values.png)
 
 ## Overview
 Predicts passenger survival using:
